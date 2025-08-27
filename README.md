@@ -144,7 +144,7 @@ This generates an `eas.json` file like:
 
 Built by Sushant Dwivedi
 
-[GitHub Repo](#)
+[GitHub Repo](https://github.com/sushantdwivedi/Shop)
 
 ---
 
