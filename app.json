@@ -2,6 +2,17 @@
   "expo": {
     "name": "Shop",
     "slug": "Shop",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "scheme": "myapp",
+    "plugins": [
+      "expo-secure-store"
+    ],
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "extra": {
+      "eas": {
+        "projectId": "f833dbad-896f-451d-ac4a-3767ebe46936"
+      }
+    }
   }
 }
